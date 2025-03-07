@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-🌱 I’m currently learning neuron networks.
-
-🔭 I’m currently working on convolutional neural network for classification animals.
-
 <!--
 **dm7672/dm7672** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
